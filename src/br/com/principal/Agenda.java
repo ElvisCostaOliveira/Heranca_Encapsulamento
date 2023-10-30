@@ -37,7 +37,4 @@ public class Agenda {
 		}
 	}
 
-	public Pessoa[] getContatos() {
-		return null;
-	}
 }
