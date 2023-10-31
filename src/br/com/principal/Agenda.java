@@ -37,4 +37,7 @@ public class Agenda {
 		}
 	}
 
+	public ArrayList<Pessoa> getContatos() {
+		return contatos;
+	}
 }
